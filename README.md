@@ -65,4 +65,3 @@ python scripts/install_local.py
 فایل‌های بالادستی بدون تغییر وارد شده‌اند. مجوز هر مهارت و فایل مربوطه بر آن
 حاکم است؛ [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) و پوشهٔ
 [licenses](licenses/) جزئیات را نگه می‌دارند.
-
